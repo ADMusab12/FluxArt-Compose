@@ -25,18 +25,11 @@
 ## 📸 Screenshots
 
 <p align="center"> 
-  <img src="demo/d1.png" width="19%" /> 
-  <img src="demo/d2.png" width="19%" /> 
-  <img src="demo/d3.png" width="19%" /> 
-  <img src="demo/d4.png" width="19%" /> 
+  <img src="demo/d1.png" width="22%" /> 
+  <img src="demo/d2.png" width="22%" /> 
+  <img src="demo/d3.png" width="22%" /> 
+  <img src="demo/d4.png" width="22%" /> 
 </p>
-
-<p align="center">
-  <img src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122186636564168719" alt="Generated Fantasy Character Example" width="49%"/>
-  <img src="https://helpx-prod.scene7.com/is/image/HelpxProdLoc/ai-image-generator-workflows-step3_900x506?$pjpeg$&jpegSize=200&wid=900" alt="Result Display with Neon Border" width="49%"/>
-</p>
-
-> *Screenshots show the app in action — glowing input field, animated button, particle background, loading animation, and generated artwork.*
 
 ## 🛠️ Tech Stack
 
